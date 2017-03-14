@@ -1,4 +1,4 @@
-﻿Build started 3/13/2017 6:58:07 PM.
+﻿Build started 3/14/2017 6:42:56 PM.
      1>Project "D:\GLStudy\CGLearn\RedBook\3thChapter\DrawVertex\DrawVertex\DrawVertex.vcxproj" on node 2 (Build target(s)).
      1>Link:
          D:\VS2013\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GLStudy\CGLearn\RedBook\3thChapter\DrawVertex\Debug\DrawVertex.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\GLStudy\CGLearn\RedBook\3thChapter\DrawVertex\DrawVertex\lib /LIBPATH:./lib glew32s.lib glfw3.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GLStudy\CGLearn\RedBook\3thChapter\DrawVertex\Debug\DrawVertex.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GLStudy\CGLearn\RedBook\3thChapter\DrawVertex\Debug\DrawVertex.lib" /MACHINE:X86 Debug\Main.obj
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.38
+Time Elapsed 00:00:01.78

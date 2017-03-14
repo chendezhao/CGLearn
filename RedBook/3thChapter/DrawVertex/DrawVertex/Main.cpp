@@ -6,6 +6,32 @@
 #include <iostream>
 using namespace std;
 
+
+static const GLfloat vertex_position[] =
+{
+	-1.0f, -1.0f, 0.0f,
+	 1.0f, -1.0f, 0.0f,
+	-1.0f,  1.0f, 0.0f,
+	-1.0f, -1.0f, 0.0f,
+};
+
+static const GLfloat color[] =
+{
+	 1.0f, 1.0f, 1.0f, 1.0,
+	 1.0f, 1.0f, 0.0f, 1.0,
+	 1.0f, 0.0f, 1.0f, 1.0,
+	 0.0f, 1.0f, 1.0f, 1.0,
+};
+
+void initVertext()
+{
+
+}
+
+void update()
+{
+
+}
 //---------------------------------------------------------------------  
 //  
 // main  
